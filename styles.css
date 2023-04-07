@@ -1,0 +1,59 @@
+
+
+#title {
+    background-color: #ff4c68;
+}
+
+.navbar {
+    background-color: #ff4c68;
+}
+
+.right {
+    margin-left: 60%;
+}
+
+.nav-link {
+    color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: large;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-size: 4rem;
+    line-height: 1.2;
+    font-weight: 900;
+    color: white;
+    text-shadow: 1px 1px 2px #741524;
+
+}
+
+.fixed-box{
+    padding-left: 20%;
+}
+
+.container-fluid {
+    padding: 8% 10%;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: "montserrat";
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .dog-phone {
+    transform: rotate(30deg);
+    margin-top: 6%;
+    margin-bottom: 1%;
+  }
+
+  #features {
+    text-align: center;
+  }
+
+  .font-img:hover {
+    color: #ff4c68;
+  }
